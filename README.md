@@ -1,4 +1,4 @@
-### Validación y operaciones de datos
+# Validación y operaciones de datos
 
 
 - El objetivo del proyecto es poner a prueba lo aprendido como es la sintaxis, estructuras de control del flujo de la información, estás son las que vimos en este módulo. if, for, while.
@@ -10,6 +10,9 @@
 - Para la creación del primer Código decidí usar la estructura **“while true”** permitiendo que el usuario pueda ingresar varias palabras en basé a la longitud que especifica el problema, iniciando así un bucle donde el usuario pueda detenerlo al ingresar la palabra correcta con la declaración “break”.
 - Con **“len ( )”** calcule la longitud, utilizando las condiciones if, elif y else para determinar si la longitud de la palabra estaba dentro de los rangos que exigía el problema.
 - Para la Creación del Segundo Código decidí iniciar con la declaración “**float”** para convertir la entrada del usuario en números de punto flotante, de esta manera poder utilizar la función **“input”** que hará una cadena de texto (string), después de que las coordenadas son escritas por el usuario el programa debe verificar que al menos una de las coordenadas es 0, después decidi utilizar las condiciones **“if**”,**”elif”**  y **“else**” para la verificación de posición del punto respecto al eje **X** e **Y**.
-- Decidí en numerar las Cuadrantes con números romanos de esta manera si las coordenadas son positivas terminaran en la **Cuadrante I**, si la cordenada X es negativa y la coordenada Y es positica terminaran en la **Cuadrante II**, y así de una manera sucesiva. 
+- Decidí en numerar las Cuadrantes con números romanos de esta manera si las coordenadas son positivas terminaran en la Cuadrante I, si la coordenada X es negativa y la coordenada Y es positiva terminaran en la Cuadrante II, y así de una manera sucesiva.
 
-![](https://i.ytimg.com/vi/ItsFQI9xCRk/maxresdefault.jpg)
+# Reflexión del Curso
+
+Logre aprender el manejo de los bucles y condiciones en Python pudiendo resolver de manera satisfactoria dos problemas de este bootcam, esperando que al completar el bootcamp pueda enfrentar más desafíos como desarrolador de software. 
+Seguire practicando, para ser aún mejor.
