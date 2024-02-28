@@ -14,5 +14,5 @@
 
 # Reflexión del Curso
 
-Logre aprender el manejo de los bucles y condiciones en Python pudiendo resolver de manera satisfactoria dos problemas de este bootcam, esperando que al completar el bootcamp pueda enfrentar más desafíos como desarrolador de software. 
+Logre aprender el manejo de los bucles y condiciones en Python pudiendo resolver de manera satisfactoria dos problemas de este bootcamp, esperando que al completar el bootcamp pueda enfrentar más desafíos como desarrolador de software. 
 Seguire practicando, para ser aún mejor.
